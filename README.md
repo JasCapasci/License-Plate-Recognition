@@ -1,5 +1,9 @@
 # License Plate Recognition
 
+## Project team
+- [@JasCapasci](https://github.com/JasCapasci)
+- [@akhila1507](https://github.com/akhila1507)
+
 ### Setting Up
 
 ---
